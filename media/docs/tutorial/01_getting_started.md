@@ -26,7 +26,7 @@ Assuming you have installed IMP, just create a folder somewhere you want to star
 For clarity & brevity, I'll assume you're using "Linux" & created your folder in: `/home/midna/demo`<br>
 - Inside this folder, create a file named: `hello.im`
 - Open this file in your favorite text editor.
-- In your text editor, choose a syntax higlighting style that suits you. Since IMP's syntax is similar to JavaScript, or PHP, or C, any of those should suffice.
+- In your text editor, choose a syntax higlighting style that suits you. Since IMP's syntax is similar to JavaScript, or CSS, or C, any of those should suffice.
 
 In the `hello.im` file, type the following code:
 ```javascript
